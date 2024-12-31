@@ -17,9 +17,9 @@ In addition to this analysis, they also want an operational dashboard to monitor
 
 #### There are three deliverables:
 1. [Data exploration and anaylsis using R code in Jupyter Notebooks](https://github.com/krista-lowry/portfolio/blob/main/r-code-markdown.ipynb)
-2. [Tableau dash for monitoring performance](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance){:target="_blank"}
+2. [Tableau dash for monitoring performance](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance)
 
-#### Data Exploration and Analysis
+### Data Exploration and Analysis
 In this section of the project, I conducted exploratory data analysis, data cleaning, and evaluated 4 machine learning models before deciding that Logistic Regression was the optimal model to predict key features of conversions. Although the fit was not particularly strong, the accuracy and specificity was such that we could identify patterns in what features may be indicative of conversion.
 
 These key features were: Returning Users, Special Days, Duration spent on product pages, and specific months of the year surrounding holidays. In other words, if a user has visited the client's site multiple times and is visiting during a holiday period, they are more likely to convert. 
@@ -30,7 +30,7 @@ This insight gives us direction into building an operational and insightful Tabl
 
 [Access the Jupyter Notebook](https://github.com/krista-lowry/portfolio/blob/main/r-code-markdown.ipynb)
 
-#### Tableau Dashboard
+### Tableau Dashboard
 Given the client's objective to determine the optimal target audience and time of year, I built a Tableau dashboard to show key performance indicator performance month-over-month, during the week and over holiday periods.
 
 The dashboard features indicators of whether a particular segmentation is performing above or below the aggregate average conversion rate, and allows for in-depth analysis of new vs returning visitor performance through filter parameter selection.
@@ -40,4 +40,4 @@ Although we know that operating system, region and browser are not particularly 
 Next steps: 
 - Identify and present specific strategies the client can take in the next holiday season to maintain and improve conversion rates in their key returning uesrs market, and how they can increase conversion volume from new users.
 
-[Access the Tableau Dashboard at Tableau Public](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance){:target="_blank"}
+[Access the Tableau Dashboard at Tableau Public](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance)
