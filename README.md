@@ -1,8 +1,8 @@
->[Access Project in Git View](https://github.com/krista-lowry/portfolio)
-
 # Welcome to My Portfolio!
 
 Here you will find recent projects showcasing my technical and business acumen in data anaylsis, data visualization, strategic planning, and experiment design.
+
+If you would prefer to access these projects in the original Github view, [click here and go to my portfolio on GitHub](https://github.com/krista-lowry/portfolio) 
 
 ## Project 1: Identifying User Segments and Predicting Conversions
 
@@ -10,7 +10,7 @@ This project showcases my ability to perform in-depth data analysis using R code
 
 > [**Click here to view project**](https://krista-lowry.github.io/data-analysis/)
 > - [Jump to Jupyter Notebook](https://github.com/krista-lowry/data-analysis/blob/main/r-code-markdown.ipynb)
-> - [Jump to Tableau Dash](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance)
+> - [Jump to Tableau Dash](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance) *opens Tableau Public*
 
 ## Project 2: Funnel Conversion Rate Optimization and A/B test
 This project describes the process I took from identifying an optimization opportunity through funnel analysis to designing and executing an A/B test and providing recommendations on further iterations. 
