@@ -1,4 +1,18 @@
-# Welcome to My Portfolio!
+# Hi, I'm Krista Lowry
+
+
+> <img src="images/profile.png" alt="Sample Image" width="200" align = "left" style = "margin:15px;">
+>
+> <sub> MARKETING DATA ANALYST | OPTIMIZATION SPECIALIST
+> based in Seattle, WA </sub>
+>
+> <sub> I build and optimize digital products and marketing strategies through in-depth analysis, creative problem-solving, and efficient collaboration</sub>
+>
+><sub>[LinkedIn](https://www.linkedin.com/in/krista-lowry/) | [Resume](/images/Krista%20Lowry%20Resume%20-%20Git.pdf)</sub>
+>
+>&nbsp;
+
+### Welcome to My Portfolio!
 
 Here you will find recent projects showcasing my technical and business acumen in data anaylsis, data visualization, strategic planning, and experiment design.
 
