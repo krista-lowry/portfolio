@@ -8,7 +8,7 @@
 >
 > <sub> I build and optimize digital products and marketing strategies through in-depth analysis, creative problem-solving, and efficient collaboration</sub>
 >
-><sub>[LinkedIn](https://www.linkedin.com/in/krista-lowry/) | [Resume](/images/Krista%20Lowry%20Resume%20-%20Git.pdf)</sub>
+><sub>[LinkedIn](https://www.linkedin.com/in/krista-lowry/) | [Resume](/portfolio/images/Krista%20Lowry%20Resume%20-%20Git.pdf)</sub>
 >
 >&nbsp;
 
