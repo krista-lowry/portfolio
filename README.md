@@ -1,3 +1,5 @@
+>[Access Project in Git View](https://github.com/krista-lowry/portfolio)
+
 # Welcome to My Portfolio!
 
 Here you will find recent projects showcasing my technical and business acumen in data anaylsis, data visualization, strategic planning, and experiment design.
