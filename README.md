@@ -6,7 +6,7 @@
 > <sub> MARKETING DATA ANALYST | OPTIMIZATION SPECIALIST
 > based in Seattle, WA </sub>
 >
-> <sub> I build and optimize digital products and marketing strategies through in-depth analysis, creative problem-solving, and efficient collaboration</sub>
+> <sub> I build and optimize digital products and marketing strategies through in-depth analysis, creative problem-solving, and efficient collaboration. </sub>
 >
 ><sub>[LinkedIn](https://www.linkedin.com/in/krista-lowry/) | [Resume](/portfolio/images/Krista%20Lowry%20Resume%20-%20Git.pdf)</sub>
 >
@@ -26,7 +26,7 @@ This project showcases my ability to perform in-depth data analysis using R code
 > - [Jump to Jupyter Notebook](https://github.com/krista-lowry/data-analysis/blob/main/r-code-markdown.ipynb)
 > - [Jump to Tableau Dash](https://public.tableau.com/app/profile/krista.lowry/viz/OnlineShopperIntent-TableauDash/Performance) *opens Tableau Public*
 
-## Project 2: Funnel Conversion Rate Optimization and A/B test
+## Project 2: Funnel Conversion Rate Optimization and A/B testing
 This project describes the process I took from identifying an optimization opportunity through funnel analysis to designing and executing an A/B test and providing recommendations on further iterations. 
 
 > [**Click here to view project**](https://krista-lowry.github.io/funnel-cro)
